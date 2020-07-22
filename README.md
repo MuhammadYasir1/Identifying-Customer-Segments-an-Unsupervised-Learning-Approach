@@ -1,7 +1,7 @@
 # Identifying-Customer-Segments-an-Unsupervised-Learning-Approach
 Clustering Techniques using Sickit learn to Identify Customer Segments
 
-### Table of Contents
+## Table of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
@@ -9,7 +9,7 @@ Clustering Techniques using Sickit learn to Identify Customer Segments
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installation <a name="installation"></a>
+### Installation <a name="installation"></a>
 This project requires **Python 3.x** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
@@ -20,6 +20,19 @@ This project requires **Python 3.x** and the following Python libraries installe
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 We recommend users install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `identifying_Customer_Segments/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook identifying_Customer_Segments.ipynb
+```  
+or
+```bash
+jupyter notebook identifying_Customer_Segments.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
 
 ## Project Motivation<a name="motivation"></a>
 
