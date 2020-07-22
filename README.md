@@ -30,7 +30,7 @@ ipython notebook Identifying_Customer_Segments.ipynb
 ```  
 or
 ```bash
-jupyter notebook identifying_Customer_Segments.ipynb
+jupyter notebook Identifying_Customer_Segments.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
