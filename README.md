@@ -4,10 +4,11 @@ Clustering Techniques using Sickit learn to Identify Customer Segments
 ## Table of Contents
 
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+2. [Run](#Run)
+3. [Project Motivation](#motivation)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation <a name="installation"></a>
 This project requires **Python 3.x** and the following Python libraries installed:
