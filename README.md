@@ -34,17 +34,17 @@ jupyter notebook identifying_Customer_Segments.ipynb
 
 This will open the iPython Notebook software and project file in your browser.
 
-## Project Motivation<a name="motivation"></a>
+### Project Motivation<a name="motivation"></a>
 
 This is the third project of Udacity Data Scientist Nanodegree. In this project, I applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
 
 
-## File Descriptions <a name="files"></a>
+### File Descriptions <a name="files"></a>
 
 There is one iPython notebook to showcase work related to this project. 
 The html file was generated from iPython notebook to submit this project.
 
-## Results<a name="results"></a>
+### Results<a name="results"></a>
 
 Cluster 4 is overrepresented in the customers data compared to general population data. Some characteristics of the group of population that are relative popular with the mail-order company:
 
@@ -59,6 +59,6 @@ Cluster 13 is underrepresented in the customers data. Some characteristics of th
 * in life stage of Pre-Family Couples & Singles or Young Couples With Children (LIFE_STAGE=1.98)
 
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Credits must be given to Udacity for providing starting code for this project. The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
+The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
