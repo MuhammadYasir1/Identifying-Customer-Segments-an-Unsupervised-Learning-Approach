@@ -47,13 +47,13 @@ The html file was generated from iPython notebook to submit this project.
 
 ### Results<a name="results"></a>
 
-Cluster 4 is overrepresented in the customers data compared to general population data. Some characteristics of the group of population that are relative popular with the mail-order company:
+Cluster 1 is overrepresented in the customers data compared to general population data. Some characteristics of the group of population that are relative popular with the mail-order company:
 
 * in areas where the share of 6-10 family homes is lower (PLZ8_ANTG3=1.73)
 * in Prosperous or Comfortable households (WEALTH=2.75)
 * in life stage of Families With School Age Children or Older Families & Mature Couples (LIFE_STAGE=3.30)
 
-Cluster 13 is underrepresented in the customers data. Some characteristics of the segment of the population that are relatively unpopular with the company:
+Cluster 6 is underrepresented in the customers data. Some characteristics of the segment of the population that are relatively unpopular with the company:
 
 * in areas where the share of 6-10 family homes is higher (PLZ8_ANTG3=2.44)
 * in Less Affluent or Poorer households (WEALTH=4.4)
